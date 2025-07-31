@@ -1,6 +1,7 @@
 import java.util.*;
 class Matrix {
     public static void main(String[] args) {
+        System.out.println("Navaneedan S\n2024503557");
         Scanner sc = new Scanner(System.in);
         int matrix[][] = new int[3][3];
         System.out.println("Enter 3x3 matrix : ");

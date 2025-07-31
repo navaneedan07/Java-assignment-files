@@ -10,7 +10,7 @@ class Ex5 {
         boolean status;
         if(fahrenheit>100)
             status = true;
-        elses
+        else
             status = false;
         System.out.println("Temperature degree: "+fahrenheit+" fahrenheit ("+celsius+" celsius)");
         if(status)
