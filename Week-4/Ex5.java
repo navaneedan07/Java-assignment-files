@@ -20,6 +20,7 @@ class  Student {
     }
 
     public static void main(String[] args) {
+        System.out.println("Navaneedan S\n2024503557");
         Student s1 = new Student("Naveen", 18);
         Student s2 = new Student("Saul",24);
         s1.display();

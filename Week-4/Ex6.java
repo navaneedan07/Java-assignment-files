@@ -19,6 +19,7 @@ class Ecommerce {
     }
 
     public static void main(String[] args) {
+        System.out.println("Navaneedan S\n2024503557");
 
         Ecommerce.setQuantity(100); // Static level data
         Ecommerce nike = new Ecommerce();

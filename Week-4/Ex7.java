@@ -27,6 +27,7 @@ class EventRegistration {
     }
 
     public static void main(String[] args) {
+        System.out.println("Navaneedan S\n2024503557");
         EventRegistration e1 = new EventRegistration();
         e1.setDetails("Naveen", 8122912031L);
         e1.getDetails();

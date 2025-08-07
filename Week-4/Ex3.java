@@ -13,6 +13,7 @@ class StudentDetails {
     }
 
     public static void main(String[] args) {
+        System.out.println("Navaneedan S\n2024503557");
         StudentDetails s1 = new StudentDetails();
         s1.setDetails("Naveen",18);
     }
