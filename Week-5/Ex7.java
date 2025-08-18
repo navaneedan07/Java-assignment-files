@@ -17,6 +17,7 @@ class VersionComparator {
     }
 
     public static void main(String[] args) {
+        System.out.println("Navaneedan S\n2024503557");
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter version 1: ");
         String version1 = scanner.nextLine();
